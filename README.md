@@ -8,8 +8,14 @@
  
   (Total Pokemon :  3880)
 
-* I also Craeted a search bar, you can   
-  search Pokemons by his names.
+  (Search Bar and Filter Option)
+
+
+* I Created a search bar, 
+  filter option, favorite page, compare 
+  page and Sort by asc or des | you can   
+  search Pokemons by his names, types, 
+  or use sort method.
 
 * I also Created Pagination in it and   
   some background effect and hover effect
