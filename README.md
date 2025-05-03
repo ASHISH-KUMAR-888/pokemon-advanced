@@ -1,12 +1,24 @@
-# React + Vite
+# Pokemon
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* I created a Pokemon API card website,
+  This site has 194 pages and each page     
+  has 20 Pokemons. 
 
-Currently, two official plugins are available:
+  (Fully Responsive)
+ 
+  (Total Pokemon :  3880)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* I also Craeted a search bar, you can   
+  search Pokemons by his names.
 
-## Expanding the ESLint configuration
+* I also Created Pagination in it and   
+  some background effect and hover effect
+  on Pokemons.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* I used Tailwind CSS and Axios in this 
+  project.
+
+
+
+## Full Stack Developer 
+
